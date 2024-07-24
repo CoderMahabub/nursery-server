@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import mongoose from 'mongoose';
 import { Product } from '../Product/product.model';
 import { TOrderWithDetail } from './orderWithDetail.interface';
